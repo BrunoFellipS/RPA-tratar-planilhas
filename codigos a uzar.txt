@@ -1,0 +1,7 @@
+        for item2 in self.efsaidas1:
+            # print(item2[0])
+            for item1 in item2:
+                print(item1)
+            print('-------------')
+            if item2 == self.efsaidas1[1]:
+                break
