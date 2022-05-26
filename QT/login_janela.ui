@@ -271,7 +271,7 @@ color: rgb(255, 255, 255);</string>
            </font>
           </property>
           <property name="text">
-           <string>Fiscal</string>
+           <string>Opção1</string>
           </property>
          </widget>
         </item>
@@ -290,7 +290,7 @@ color: rgb(255, 255, 255);</string>
            </font>
           </property>
           <property name="text">
-           <string>Contabil</string>
+           <string>Opção2</string>
           </property>
          </widget>
         </item>
@@ -309,7 +309,7 @@ color: rgb(255, 255, 255);</string>
            </font>
           </property>
           <property name="text">
-           <string>Financeiro</string>
+           <string>Opção3</string>
           </property>
          </widget>
         </item>
@@ -328,7 +328,7 @@ color: rgb(255, 255, 255);</string>
            </font>
           </property>
           <property name="text">
-           <string>DP</string>
+           <string>Opção4</string>
           </property>
          </widget>
         </item>
